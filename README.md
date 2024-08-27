@@ -1,7 +1,7 @@
 j<div align="center">
 <h1 align="center">Hi, I am <a href="https://aristi.dev">Jair</a> 👋</h1>
 </div>
-<img src="https://firebasestorage.googleapis.com/v0/b/sobremi-5569b.appspot.com/o/bannergithub.png?alt=media&token=dbbfd702-575f-4756-abee-c4b606007cbd"
+<img src="https://firebasestorage.googleapis.com/v0/b/sobremi-5569b.appspot.com/o/BANNER_GITHUB.png?alt=media&token=bfa5bb14-62de-46de-8cd2-afe83d9ccb27"
 
 ## About me
 
