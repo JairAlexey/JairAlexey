@@ -65,8 +65,8 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jair-rueda-09400125b/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/jair-rueda-09400125b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:alexeyrueda823@gmail.com" target="_blank">
