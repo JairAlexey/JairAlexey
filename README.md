@@ -1,9 +1,6 @@
 <div align="center">
 
 <h1>👋 Hi, I'm <a href="https://github.com/JairAlexey">Jair</a></h1>
-
-<img src="https://firebasestorage.googleapis.com/v0/b/sobremi-5569b.appspot.com/o/BANNER_GITHUB.png?alt=media&token=9239f65c-051c-48c4-b0bb-e498d175ae7f" alt="banner" width="100%" />
-
 </div>
 
 ---
